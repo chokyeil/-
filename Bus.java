@@ -1,6 +1,7 @@
 public class Bus {
     String number;
     int oil;
+
     Bus(String number){
         this.number = number;
     }

@@ -37,7 +37,5 @@ public class BusMain {
         System.out.println("주유량 = " + bus1.oilingBus(-55));
         bus1.statusDrive(5, "종료");
 
-
-
     }
 }
